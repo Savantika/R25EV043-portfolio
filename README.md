@@ -17,3 +17,11 @@ My personal GitHub portfolio showcasing my programming skills, learning journey,
 - Problem Solving
 - Web Development
 - Exploring Artificial Intelligence
+
+## My Goals
+
+- To improve my programming and technical skills.
+- To build real-world projects.
+- To improve my problem-solving abilities.
+- To learn new technologies and frameworks.
+- To grow as a software developer.
