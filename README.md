@@ -9,3 +9,11 @@ My personal GitHub portfolio showcasing my programming skills, learning journey,
 - HTML and CSS
 - SQL
 - Git and GitHub
+
+## My Interests
+
+- Software Development
+- Learning New Technologies
+- Problem Solving
+- Web Development
+- Exploring Artificial Intelligence
