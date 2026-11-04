@@ -1,5 +1,5 @@
 # R25EV043-portfolio
-My personal GitHub portfolio showcasing my programming skills, learning journey, projects, and interests in computer science and technology.
+Hello! I am Savantika , currently pursuing b.tech in Computer science and Engineering at REVA university. This repository is my personal GitHub portfolio, where I showcase my programming skills, learning journey, projects, and interests in computer science and technology.
 
 ## My Skills
 
