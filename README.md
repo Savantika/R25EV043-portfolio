@@ -25,3 +25,8 @@ My personal GitHub portfolio showcasing my programming skills, learning journey,
 - To improve my problem-solving abilities.
 - To learn new technologies and frameworks.
 - To grow as a software developer.
+
+## Projects
+
+- **Portfolio Website:** A personal portfolio showcasing my programming skills, interests, and learning journey.
+- **Credit Card Fraud Detection:** A machine learning project to identify potentially fraudulent transactions.
